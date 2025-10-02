@@ -76,6 +76,5 @@ DerivedDataCache/*
 
 #bat file
 
-**/*.bat
-*/*.bat
+
 
